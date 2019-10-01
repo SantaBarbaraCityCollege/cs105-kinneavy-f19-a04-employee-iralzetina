@@ -6,7 +6,7 @@
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  * 
- * @author Iral Zetina
+ * @author Iral A. Zetina
  */
 package edu.sbcc.cs105;
 

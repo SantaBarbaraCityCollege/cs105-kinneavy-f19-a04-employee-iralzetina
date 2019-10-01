@@ -7,7 +7,7 @@
  * Statement of code ownership: I hereby state that I have written all of this
  * code and I have not copied this code from any other person or source.
  * 
- * @author Iral Zetina
+ * @author Iral A. Zetina
  */
 package edu.sbcc.cs105;
 
@@ -24,11 +24,11 @@ public class Program {
      * 
      * 
      * @param args
-     *            command line values. Not used in this example.
+     * command line values. Not used in this example below.
      */
     public static void main(String[] args) {
         // Pasted code from sample usage section. Feel free to adjust things like the salary and percent raised
-        Employee harry = new Employee("Harry", 10000);
+        Employee harry = new Employee("Harry", 20000);
         harry.raiseSalary(10); // Harry gets a 10% raise.
         double harrysSalary = harry.getSalary();
         System.out.println("Harry's salary is " + harrysSalary);
